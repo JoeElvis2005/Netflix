@@ -9,10 +9,10 @@ A system inspired by Netflix
 ## Editor used
 -Visual studio code
   ### Plugins and Extensions
-  -Live server
-  -Prettier
-  -Blackbox.ai
-  -Internet explorer
+  - Live server
+  - Prettier
+  - Blackbox.ai
+  - Internet explorer
 
 ## Procedure to install bootsrap
  1. Open Google
@@ -23,13 +23,13 @@ A system inspired by Netflix
    To access bootstrap click on **[BOOTSTRAP](https://getbootstrap.com/docs/5.2/getting-started/introduction/)**
  
  ## Contact details
- -Instagram
+ - Instagram
  <https://www.instagram.com/iamnot_joe/>   return
  
- -Email
+ - Email
  <joeelvismuiruri@gmail.com>    return
  
- -Twitter
+ - Twitter
  <https://twitter.com/JoeElvis2005>
  
  
