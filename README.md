@@ -7,7 +7,7 @@ A system inspired by Netflix
 4. Little Javascript
 
 ## Editor used
--Visual studio code
+- Visual studio code
   ### Plugins and Extensions
   - Live server
   - Prettier
@@ -20,14 +20,15 @@ A system inspired by Netflix
  3. Open the site and go to search bar
  4. Search cdn and copy cdn sent by bootstrap
  5. Go back to VS code and paste link after the meta element
-   To access bootstrap click on **[BOOTSTRAP](https://getbootstrap.com/docs/5.2/getting-started/introduction/)**
+ 
+ > To access bootstrap click on **[BOOTSTRAP](https://getbootstrap.com/docs/5.2/getting-started/introduction/)**
  
  ## Contact details
  - Instagram
- <https://www.instagram.com/iamnot_joe/>   return
+ <https://www.instagram.com/iamnot_joe/>  
  
  - Email
- <joeelvismuiruri@gmail.com>    return
+ <joeelvismuiruri@gmail.com>    
  
  - Twitter
  <https://twitter.com/JoeElvis2005>
